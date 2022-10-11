@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root tid="4457">
+  <data>
+    <content>
+      <field name="Metadata schema for phonon thermal conductivity calculation">Fill in Metadata schema for phonon thermal conductivity calculation (String)</field>
+      <field name="Management information">
+        <field name="Data ID">PD-001 (String)</field>
+        <field name="Calculation name">Phonon thermal conductivity calculation (String)</field>
+        <field name="Calculation software name">ShengBTE (String)</field>
+        <field name="Calculation software version">ShengBTE-v1.1.1 (String)</field>
+        <field name="Calculation date">04.21.2021 (Date)</field>
+        <field name="Calculator">Yongchao Rao (String)</field>
+        <field name="Associated source data ID">SD-001 SD-002 (String)</field>
+      </field>
+      <field name="Input file information">
+        <field name="CONTROL">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="FORCE_CONSTANTS_2ND (VASP) /">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="espresso_ifc2 (Quantum Espresso)">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="FORCE_CONSTANTS_3ND">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+      </field>
+      <field name="Output file information">
+        <field name="BTE_KappaTensorVsT_CONV">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_KappaTensorVsT_RTA">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_KappaTensorVsT_sg">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_cvVsT">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_dos">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_gruneisen">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_gruneisenVsT_total">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_omega">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_P3">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_P3_minus">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_P3_minus_total">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_P3_plus">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_P3_plus_total">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_P3_total">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_pdos">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_qpoints">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_qpoints_full">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_ReciprocalLatticeVectors">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_v">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_v_full">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_w_boundary">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+        <field name="BTE_w_isotopic">
+          <file>3-files/3-ShengBTE</file>
+        </field>
+      </field>
+    </content>
+  </data>
+</root>

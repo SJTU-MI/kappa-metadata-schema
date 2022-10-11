@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root tid="4456">
+  <data>
+    <content>
+      <field name="Metadata schema for force constants calculation">Fill in Metadata schema for force constants calculation (String)</field>
+      <field name="Management information">
+        <field name="Source data ID">SD-001 (String)</field>
+        <field name="Virtual characterization name">2nd force constants calculation (String)</field>
+        <field name="Calculation software name">VASP, Phonopy (String)</field>
+        <field name="Calculation software version">VASP.5.4.4, Phonopy.2.9.1 (String)</field>
+        <field name="Calculation date">04.21.2021 (Date)</field>
+        <field name="Calculator">Yongchao Rao (String)</field>
+        <field name="Associated virtual sample ID">SI-001 (String)</field>
+      </field>
+      <field name="Input file information">
+        <field name="INCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="POSCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="KPOINTS">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="POTCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+      </field>
+      <field name="Output file information">
+        <field name="vasprun-xml">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="FORCE_CONSTANTS">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="CONTCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="DOSCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="EIGENVAL">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="IBZKPT">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="OSZICAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="OUTCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="PCDAT">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="XDATCAR">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+        <field name="vasp-out">
+          <file>3-files/2-force_constants/2nd_force_constants</file>
+        </field>
+      </field>
+    </content>
+  </data>
+</root>
