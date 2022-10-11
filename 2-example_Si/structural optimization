@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root tid="4455">
+  <data>
+    <content>
+      <field name="VASP">VASP (String)</field>
+      <field name="Management information">
+        <field name="Sample ID">SI-001 (String)</field>
+        <field name="Virtual sample name">Si (String)</field>
+        <field name="Use of virtual sample preparation">Structural optimization (String)</field>
+        <field name="Calculation software name">VASP (String)</field>
+        <field name="Calculation software version">VASP.5.4.4 (String)</field>
+        <field name="Calculation date">07.18.2020 (Date)</field>
+        <field name="Calculator">Yongchao Rao (String)</field>
+        <field name="Associated virtual sample ID">- (String)</field>
+      </field>
+      <field name="Element and structure information">
+        <field name="Material ID">mp-149 (String)</field>
+        <field name="Database name ">Materials Project  (String)</field>
+        <field name="Structure name">Si (String)</field>
+        <field name="Space group">Fd-3m (String)</field>
+        <field name="Lattice constant">a=b=c=3.867 Å (String)</field>
+      </field>
+      <field name="Input file information">
+        <field name="INCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="POSCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="KPOINTS">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="POTCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+      </field>
+      <field name="Output file information">
+        <field name="CONTCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="DOSCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="EIGENVAL">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="IBZKPT">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="OSZICAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="OUTCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="PCDAT">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="vasprun-xml">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="XDATCAR">
+          <file>3-files/1-rlx</file>
+        </field>
+        <field name="vasp-out">
+          <file>3-files/1-rlx</file>
+        </field>
+      </field>
+    </content>
+  </data>
+</root>
