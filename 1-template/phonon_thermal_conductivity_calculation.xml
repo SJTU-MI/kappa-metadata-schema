@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root tid="4457">
+  <data>
+    <content>
+      <field name="Metadata schema for phonon thermal conductivity calculation">Fill in Metadata schema for phonon thermal conductivity calculation (String)</field>
+      <field name="Management information">
+        <field name="Data ID">Fill in Data ID (String)</field>
+        <field name="Calculation name">Fill in Calculation name (String)</field>
+        <field name="Calculation software name">Fill in Calculation software name (String)</field>
+        <field name="Calculation software version">Fill in Calculation software version (String)</field>
+        <field name="Calculation date">Fill in Calculation date (Date)</field>
+        <field name="Calculator">Fill in Calculator (String)</field>
+        <field name="Associated source data ID">Fill in Associated source data ID (String)</field>
+      </field>
+      <field name="Input file information">
+        <field name="CONTROL">
+          <file>Fill in File path</file>
+        </field>
+        <field name="FORCE_CONSTANTS_2ND (VASP) /">
+          <file>Fill in File path</file>
+        </field>
+        <field name="espresso_ifc2 (Quantum Espresso)">
+          <file>Fill in File path</file>
+        </field>
+        <field name="FORCE_CONSTANTS_3ND">
+          <file>Fill in File path</file>
+        </field>
+      </field>
+      <field name="Output file information">
+        <field name="BTE_KappaTensorVsT_CONV">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_KappaTensorVsT_RTA">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_KappaTensorVsT_sg">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_cvVsT">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_dos">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_gruneisen">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_gruneisenVsT_total">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_omega">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_P3">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_P3_minus">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_P3_minus_total">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_P3_plus">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_P3_plus_total">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_P3_total">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_pdos">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_qpoints">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_qpoints_full">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_ReciprocalLatticeVectors">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_v">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_v_full">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_w_boundary">
+          <file>Fill in File path</file>
+        </field>
+        <field name="BTE_w_isotopic">
+          <file>Fill in File path</file>
+        </field>
+      </field>
+    </content>
+  </data>
+</root>
