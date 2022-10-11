@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root tid="4455">
+  <data>
+    <content>
+      <field name="VASP">Fill in VASP (String)</field>
+      <field name="Management information">
+        <field name="Sample ID">Fill in Sample ID (String)</field>
+        <field name="Virtual sample name">Fill in Virtual sample name (String)</field>
+        <field name="Use of virtual sample preparation">Fill in Use of virtual sample preparation (String)</field>
+        <field name="Calculation software name">Fill in Calculation software name (String)</field>
+        <field name="Calculation software version">Fill in Calculation software version (String)</field>
+        <field name="Calculation date">Fill in Calculation date (Date)</field>
+        <field name="Calculator">Fill in Calculator (String)</field>
+        <field name="Associated virtual sample ID">Fill in Associated virtual sample ID (String)</field>
+      </field>
+      <field name="Element and structure information">
+        <field name="Material ID">Fill in Material ID (String)</field>
+        <field name="Database name ">Fill in Database name  (String)</field>
+        <field name="Structure name">Fill in Structure name (String)</field>
+        <field name="Space group">Fill in Space group (String)</field>
+        <field name="Lattice constant">Fill in Lattice constant (String)</field>
+      </field>
+      <field name="Input file information">
+        <field name="INCAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="POSCAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="KPOINTS">
+          <file>Fill in File path</file>
+        </field>
+        <field name="POTCAR">
+          <file>Fill in File path</file>
+        </field>
+      </field>
+      <field name="Output file information">
+        <field name="CONTCAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="DOSCAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="EIGENVAL">
+          <file>Fill in File path</file>
+        </field>
+        <field name="IBZKPT">
+          <file>Fill in File path</file>
+        </field>
+        <field name="OSZICAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="OUTCAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="PCDAT">
+          <file>Fill in File path</file>
+        </field>
+        <field name="vasprun-xml">
+          <file>Fill in File path</file>
+        </field>
+        <field name="XDATCAR">
+          <file>Fill in File path</file>
+        </field>
+        <field name="vasp-out">
+          <file>Fill in File path</file>
+        </field>
+      </field>
+    </content>
+  </data>
+</root>
